@@ -299,6 +299,53 @@ Cuando se activa un solenoide, su émbolo se retrae.
 
 El relé conecta +9 V al pin 2 encendiendo la lámpara 2 y apagando la lámpara 1.
 
+14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+![image](https://user-images.githubusercontent.com/105565670/177187053-6ea2ca6b-2af5-4518-94d0-259258f74038.png)
+
+16. En la figura 10-44, hay 500 vueltas
+
+![image](https://user-images.githubusercontent.com/105565670/177187072-7e73ca1d-3951-4d74-940b-53387d92e6ac.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177187111-ce05bc53-82d7-4b52-bd4d-82a8b39d85c1.png)
+
+18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+El voltaje inducido se duplica cuando la tasa de cambio del flujo magnético se duplica.
+
+20.
+
+![image](https://user-images.githubusercontent.com/105565670/177187182-4838ea63-21a8-4ddd-8522-ced3afa29bda.png)
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105565670/177187217-9e5a25e3-5be2-44be-a06d-7ff1296821da.png)
+
+El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+![image](https://user-images.githubusercontent.com/105565670/177187260-268a438b-deb3-4960-a264-f23c42ad1fcb.png)
+
+4. Video
+
+Link del video: 
+
+5. Conclusiones
+
+•	Los métodos de análisis de circuitos como la corriente en ramas, de lazo y voltaje en nodos son de gran importancia para la resolución de circuitos eléctricos, que dependiendo del circuito se aplicará un método específico usando la Ley de Ohm y las Leyes de Kirchhoff.
+
+•	El magnetismo y electromagnetismo se caracteriza por un campo magnético que dependiendo de la situación este actúa de diferente manera.
+
+6. Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
+
+Planas, O. (8 de Octubre de 2021). Energía Solar. Obtenido de https://solar-energia.net/sistema-solar/tierra/campo-magnetico-de-la-tierra/campo-magnetico
+
+Planas, O. (14 de Septiembre de 2021). Energía Solar. Obtenido de https://energia-nuclear.net/energia/energia-electrica/ejemplos/electroimanes
+
+
 
 
 
