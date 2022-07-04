@@ -181,6 +181,44 @@ Aplicaciones de la inducción electromagnética
 
 •	Generador de CD: Un generador de CD se compone de una sola espira de alambre en un campo magnético permanente.
 
+3. Resolución de ejercicios --> Capítulo 9 y 10
+
+Capítulo 9
+
+2. Evalúe cada determinante:
+
+![image](https://user-images.githubusercontent.com/105565670/177185778-cd22de82-cf1c-4364-a06f-21d33212d8c1.png)
+
+4. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/105565670/177185828-8bcd935b-0b6f-495c-98d9-774b52745b54.png)
+
+6. Determine I3 en el ejemplo 9-4.
+
+![image](https://user-images.githubusercontent.com/105565670/177185854-bce7e92d-aff0-46a2-98e1-74e024da8151.png)
+
+8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+
+![image](https://user-images.githubusercontent.com/105565670/177185891-baa23f9d-8bec-4669-bf3d-bc18e3311bd4.png)
+
+10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/105565670/177185929-03535bcf-26d3-43ac-b4c7-9c85f1c6094f.png)
+
+12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
+
+![image](https://user-images.githubusercontent.com/105565670/177185954-58b3c18c-bce3-410c-84b6-abfd5ec9be26.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177185979-b20b90ba-7222-45f2-acee-137f689024d6.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177185991-85b49822-91cb-433f-9122-5daf02fa321e.png)
+
+14. Determine la corriente a través de cada resistor mostrado en la figura 9-27
+
+![image](https://user-images.githubusercontent.com/105565670/177186018-6fcfd3e9-0219-40d6-b8e8-b2a902932c85.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186034-065003d7-9ae9-4cf5-875e-c749534cfe64.png)
+
 
 
 
