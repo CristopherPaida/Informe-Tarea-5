@@ -329,7 +329,7 @@ El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 4. Video
 
-Link del video: 
+Link del video: https://www.youtube.com/watch?v=Z8YeLr0hBOI
 
 5. Conclusiones
 
@@ -344,28 +344,3 @@ Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México:
 Planas, O. (8 de Octubre de 2021). Energía Solar. Obtenido de https://solar-energia.net/sistema-solar/tierra/campo-magnetico-de-la-tierra/campo-magnetico
 
 Planas, O. (14 de Septiembre de 2021). Energía Solar. Obtenido de https://energia-nuclear.net/energia/energia-electrica/ejemplos/electroimanes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
