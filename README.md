@@ -269,6 +269,37 @@ Capítulo 9
 
 ![image](https://user-images.githubusercontent.com/105565670/177186650-2561052e-8a9d-4fa7-b3aa-e6b81782d7b5.png)
 
+Capítulo 10
+
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
+
+![image](https://user-images.githubusercontent.com/105565670/177186764-2634ecb1-1497-48ae-ac1c-d2cc4a3293d9.png)
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
+
+![image](https://user-images.githubusercontent.com/105565670/177186784-94d90e85-464a-45ec-bbc7-de3c470ee90b.png)
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+![image](https://user-images.githubusercontent.com/105565670/177186812-cbcef608-eab2-4589-aecc-8fa29b1a733c.png)
+
+La aguja de la brújula gira 180°.
+
+8.
+
+![image](https://user-images.githubusercontent.com/105565670/177186877-99467955-b005-45ca-badb-fbd6f6b5405a.png)
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+Cuando se activa un solenoide, su émbolo se retrae.
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+![image](https://user-images.githubusercontent.com/105565670/177186924-d4e43eb1-41c1-4f12-9ea9-5d0911f3eb8d.png)
+
+El relé conecta +9 V al pin 2 encendiendo la lámpara 2 y apagando la lámpara 1.
+
+
 
 
 
