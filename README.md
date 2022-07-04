@@ -219,6 +219,56 @@ Capítulo 9
 
 ![image](https://user-images.githubusercontent.com/105565670/177186034-065003d7-9ae9-4cf5-875e-c749534cfe64.png)
 
+16. Escriba el determinante característico para las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/105565670/177186181-12494a72-7ebd-4086-b0bc-9a6a0fd31e24.png)
+
+18. Determine las corrientes de rama en la figura 9-28
+
+![image](https://user-images.githubusercontent.com/105565670/177186216-70249434-c861-4f97-8c74-3910a564b545.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186280-ca40237e-b50a-42f3-969b-be0c66615e9d.png)
+
+20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29
+
+![image](https://user-images.githubusercontent.com/105565670/177186313-31a9c714-3c0d-4bc1-b9e5-0d1a2c851a89.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186331-a530d7e6-0c8f-4540-b9ab-d3122e4c5874.png)
+
+22. Determine la corriente a través de cada resistor en la figura 9-29
+
+![image](https://user-images.githubusercontent.com/105565670/177186365-2f0d9951-f5b4-4c35-a795-9a2da69ff6a9.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186384-7d12184b-e0f9-44f0-9fe8-d124e361c69c.png)
+
+24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+
+![image](https://user-images.githubusercontent.com/105565670/177186399-d23b67a2-2aef-40fb-9230-baefcf4cdbb2.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186487-31afceb1-4336-4e14-ab67-9c805a1f8adb.png)
+
+26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/105565670/177186516-41f5bbdc-32eb-4a28-b247-aef6c3149ca3.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186545-1bb0ab3d-fb50-4964-983c-5f3afeed1217.png)
+
+28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo
+
+![image](https://user-images.githubusercontent.com/105565670/177186562-dc0f0acc-8c43-41a0-9667-8d2f6ac67d68.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186583-6c6c0dda-0130-4f08-8d26-1c335cc23f2d.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186597-f7918e0c-a551-47b9-9642-88396f09cf34.png)
+
+30. Determine el voltaje en los puntos A, B y C en la figura 9-34
+
+![image](https://user-images.githubusercontent.com/105565670/177186612-df8cf55f-448d-4816-a234-effd75b8ba57.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186639-922e398d-0f21-447d-b9c9-93b926851747.png)
+
+![image](https://user-images.githubusercontent.com/105565670/177186650-2561052e-8a9d-4fa7-b3aa-e6b81782d7b5.png)
+
 
 
 
